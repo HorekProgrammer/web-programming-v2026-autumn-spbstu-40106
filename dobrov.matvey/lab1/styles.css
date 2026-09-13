@@ -18,7 +18,7 @@ body {
   gap: 6px;
 }
 
-.pagination_item {
+.pagination-item {
   width: 40px;
   height: 40px;
   display: flex;
@@ -29,13 +29,13 @@ body {
   text-decoration: none;
 }
 
-.pagination_item-active,
-.pagination_item-active:hover {
+.pagination-item-active,
+.pagination-item-active:hover {
   color: #fff;
   background-color: #075bf8;
 }
 
-.pagination_item:hover {
+.pagination-item:hover {
   color: #fff;
   background-color: #777;
 }
