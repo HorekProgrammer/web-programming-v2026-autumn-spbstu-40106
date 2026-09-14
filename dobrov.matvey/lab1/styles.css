@@ -29,13 +29,15 @@ body {
   text-decoration: none;
 }
 
+.pagination-item:hover {
+  color: #fff;
+  background-color: #777;
+}
+
 .pagination-item-active,
 .pagination-item-active:hover {
   color: #fff;
   background-color: #075bf8;
 }
 
-.pagination-item:hover {
-  color: #fff;
-  background-color: #777;
-}
+
